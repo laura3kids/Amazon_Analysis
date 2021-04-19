@@ -1,6 +1,6 @@
 # Amazon_Analysis
 
-##Overview of the Analysis:
+## Overview of the Analysis:
 The purpose of this analysis was to analyze the reviews from toys purchased on Amazon.  We used PySpark to extract, transform, and load the data so we could have a clean set of data to work with.  The purpose was to see if there was any bias towards a paid review versus an unpaid review. 
 
 Using the Vine dataframe below, we were able to filter and answer specific questions regarding the dataset. 
